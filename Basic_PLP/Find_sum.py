@@ -10,5 +10,3 @@ for i in range(1, 11):
     recursive_sum = sum_n(i)
     formula_sum = i * (i + 1) // 2
     print(f"n = {i}: Recursive Sum = {recursive_sum}, Formula Sum = {formula_sum}")
-
-
